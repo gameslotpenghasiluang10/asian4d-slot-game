@@ -1,0 +1,18 @@
+{
+  "name": "asian4d-slot-game",
+  "main": "./lib/asian4d-slot-game",
+  "version": "1.0.0",
+  "description": "Cek Info Algoritma Berbagi Info Gacor Asian4d Slot Game Offline Mod Apk",
+  "keywords": ["toptrend gaming","slot joker123","slot pg soft","joker gaming","slot pragmatic play","slot online jackpot tertinggi"],
+
+  "activationCommands": {
+    "atom-workspace": "asian4d-slot-game:toggle"
+  },
+  "repository": "https://github.com/gameslotpenghasiluang10/asian4d-slot-game",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

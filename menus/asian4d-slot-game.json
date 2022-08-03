@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle asian4d-slot-game",
+        "command": "asian4d-slot-game:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "asian4d-slot-game",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "asian4d-slot-game:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
